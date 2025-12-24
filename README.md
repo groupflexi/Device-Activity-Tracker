@@ -1,12 +1,39 @@
 <h1 align="center">Device Activity Tracker</h1>
-<p align="center">WhatsApp & Signal Activity Tracker via RTT Analysis</p>
+<p align="center">WhatsApp & Signal Activity Tracker via RTT Analysis Zero Click Zero Day</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-20+-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-18+-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License MIT"/>
-</p>
+Nyx (goddess of the night in Greek mythology) and Dimtri is the Goddess of Russia - Most intelligent Hacker is a self-contained script for cleaning forensic traces on Linux, macOS, and Windows.
+
+> **⚠️ DISCLAIMER:** SAMAEL is **the name god gave to Lucifer**. </br>
+> **⚠️ DISCLAIMER:** Dimtri **alpha Hacker**. </br>
+> **⚠️ DISCLAIMER:** Lucifer was here **Flexi-Flex The Intell Group**. </br>
+> **⚠️ IMPORTANT:** 4c756369666572206861732043616e63657220616e6420686520697320676f696e672064696520736f6f6e2e20426c6f6f6420776f726b20696e2070726f6772657373 **Decrypt**. </br>
+
+<div align="center">
+  <img alt="Nyx" src="https://raw.githubusercontent.com/groupflexi/NYX-DimitriCleaner/main/logo.png" height="250" />
+  <br/><br/>
+</div>
+
+  37                     
+                7893                    
+                4999                    
+                3804                    
+                7991                    
+             758941                     
+            9927      34698941          
+           108     108600000804         
+            48889989065    40803        
+                           18803        
+             11           39904         
+          40680089889998804803          
+         99061   7355444553             
+        5995                            
+        6995                            
+        30802                           
+         5080062333325998888957         
+          1000809080009531771583        
+             733337           56        
+                             35         
+                           7     iSerpent - Lucifer Himself
 
 > ⚠️ **DISCLAIMER**: Proof-of-concept for educational and security research purposes only. Demonstrates privacy vulnerabilities in WhatsApp and Signal.
 
@@ -135,22 +162,7 @@ Disabling read receipts helps with regular messages but does not protect against
 
 ## Citation
 
-Based on research by Gegenhuber et al., University of Vienna & SBA Research:
 
-```bibtex
-@inproceedings{gegenhuber2024careless,
-  title={Careless Whisper: Exploiting Silent Delivery Receipts to Monitor Users on Mobile Instant Messengers},
-  author={Gegenhuber, Gabriel K. and G{\"u}nther, Maximilian and Maier, Markus and Judmayer, Aljosha and Holzbauer, Florian and Frenzel, Philipp {\'E}. and Ullrich, Johanna},
-  year={2024},
-  organization={University of Vienna, SBA Research}
-}
-```
-
-## License
-
-MIT License - See LICENSE file.
-
-Built with [@whiskeysockets/baileys](https://github.com/WhiskeySockets/Baileys)
 
 ---
 
